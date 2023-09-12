@@ -4,7 +4,7 @@
 int main() {
     int choice;
     printf("SELECT YOUR ORDER FROM THE MENU\n");
-    printf("[1] FRIED RICE\n [2] CHICKEN BIRIYANI\n [3] MANDHI\n [4] SHAWARMA \n");
+    printf("[1] FRIED RICE\n[2] CHICKEN BIRIYANI\n[3] MANDHI\n[4] SHAWARMA \n");
     scanf("%d", &choice);
     switch (choice)
     {
